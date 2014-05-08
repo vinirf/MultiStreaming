@@ -1,0 +1,814 @@
+#EXTINF:-1,ISRAIL-HEBREW:21
+
+http://s3yfl.castup.net:1935/993850021-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:57
+
+http://s3yfl.castup.net:1935/993850057-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:63
+
+http://s3yfl.castup.net:1935/993850063-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:64
+
+http://s3yfl.castup.net:1935/993850064-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:67
+
+http://s3yfl.castup.net:1935/993850067-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:68
+
+http://s3yfl.castup.net:1935/993850068-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:70
+
+http://s3yfl.castup.net:1935/993850070-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:71
+
+http://s3yfl.castup.net:1935/993850071-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:77
+
+http://s3yfl.castup.net:1935/993850077-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:78
+
+http://s3yfl.castup.net:1935/993850078-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:79
+http://s3yfl.castup.net:1935/993850079-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:80
+
+http://s3yfl.castup.net:1935/993850080-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:81
+
+http://s3yfl.castup.net:1935/993850081-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:81
+
+http://s3yfl.castup.net:1935/993850081-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:82
+
+http://s3yfl.castup.net:1935/993850082-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:83
+
+http://s3yfl.castup.net:1935/993850083-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:84
+
+http://s3yfl.castup.net:1935/993850084-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:85
+
+http://s3yfl.castup.net:1935/993850085-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:86
+
+http://s3yfl.castup.net:1935/993850086-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:87
+http://s3yfl.castup.net:1935/993850087-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,ISRAIL-HEBREW:88
+
+http://s3yfl.castup.net:1935/993850088-123.flv/_definst_/hasbahca.m3u8
+
+#EXTINF:-1,Belgium:PTC
+
+http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
+
+#EXTINF:-1,Belgium:ATV
+
+http://iphone-streaming.ustream.tv/ustreamVideo/14116701/streams/live/hasbahca.m3u8
+
+#EXTINF:-1,Belgium:RTC Télé Liège
+
+http://media.webtvlive.eu/rtc/smil:live.smil/hasbahca.m3u8
+
+#EXTINF:-1,Magyar:MusicChannel_Hu
+
+http://77.36.61.45:8010/MusicChannel.m3u8
+
+#EXTINF:-1,Portugal:SIC
+
+http://213.13.26.11:1935/live/sic/hasbahca.m3u8
+
+#EXTINF:-1,Portugal:TCV – CABO VERDE PT
+
+http://213.13.26.12:1935/live/_definst_/rtc_teste/hasbahca.m3u8
+
+#EXTINF:-1,Portugal:ECONOMICO TV
+
+http://213.13.26.12:1935/live/_definst_/etv_direto/hasbahca.m3u8
+
+#EXTINF:-1,Portugal:SIC Notícias
+
+http://213.13.26.12:1935/live/_definst_/sicnoticias/hasbahca.m3u8
+
+#EXTINF:-1,Portugal:Secret History 4
+
+http://38.96.148.147:1935/live/ss4/hasbahca.m3u8
+
+#EXTINF:-1,Portugal:EURONEWS PORTUGAL
+
+http://hd1.lsops.net/live/euronews_pt_340/hasbahca.m3u8
+
+#EXTINF:-1,Serbia_Croatia:b 92
+
+http://4.31.30.135:1935/st3fstv/9ios_B92_4523784/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:BHT 1
+
+http://4.31.30.135:1935/st3fstv/1ios_bht1_56787454/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:BOSTEL 1
+
+http://4.31.30.135:1935/st3fstv/2ios_bostel1_3223156/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:BOSTEL 2
+
+http://4.31.30.135:1935/st3fstv/6ios_Bostel2_5275542/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_CroatiaMSAT
+
+http://4.31.30.135:1935/st3fstv/17ios_DMSAT_4453811/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:EUROPLUS
+
+http://4.31.30.135:1935/st3fstv/7ios_Europlus_213384/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:Federalna
+
+http://4.31.30.135:1935/st3fstv/4ios_Federalna_8795632/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:GLAS PLAVA
+
+http://4.31.30.135:1935/st3fstv/15ios_GLASPLAVA_8877987/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:NTV
+
+http://4.31.30.135:1935/st3fstv/16ios_NTV101_5478344/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:OBN
+
+http://4.31.30.135:1935/st3fstv/3ios_OBN_1237865/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:PRVA TV
+
+http://4.31.30.135:1935/st3fstv/8ios_PrvaTV_4525478/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:HAPPY
+
+http://109.122.121.21/live/happy.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:HRT 1
+
+http://109.122.121.21/live/hrt_1.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:HRT 2
+
+http://109.122.121.21/live/hrt_2.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:PALMA PLUS
+
+http://109.122.121.21/live/palma.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:PINK
+
+http://109.122.121.21/live/pink.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:PRVA TV
+
+http://109.122.121.21/live/prva.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:RTCG SAT
+
+http://109.122.121.21/live/rtcg.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:RTRS
+
+http://109.122.121.21/live/rtrs.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:RTS 1
+
+http://109.122.121.21/live/rts_1.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:RTS 2
+
+http://109.122.121.21/live/rts_2.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:SOS
+
+http://109.122.121.21/live/sos.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:STUDIO B
+
+http://109.122.121.21/live/studio_b.stream/hasbahca.m3u8?hash=e7bc1c090cccad4a6747e5cc0a09b267fc95663b
+
+#EXTINF:-1,Serbia_Croatia:RTS 1 PTC
+
+http://4.31.30.135:1935/st3fstv/10ios_RTS1_4245875/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:SVETPLUS
+
+http://4.31.30.135:1935/st3fstv/19ios_SVETPLUS_2547871/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:TV DUGA
+
+http://4.31.30.135:1935/st3fstv/12ios_TVDUGA_2548745/HasBahCa.m3u8
+
+#EXTINF:-1,Serbia_Croatia:VALENTINO
+
+http://4.31.30.135:1935/st3fstv/20ios_VALENTINO_4584512/HasBahCa.m3u8
+#EXTINF:-1,Slovakia-Sloveina:MUSIQ1
+
+http://88.212.10.27:81/streams/musiq1.m3u8
+
+#EXTINF:-1,Slovakia-Sloveina:PLUS
+
+http://88.212.10.27:81/streams/jojplus.m3u8
+
+#EXTINF:-1,Slovakia-Sloveina:REGION
+
+http://88.212.10.27:81/streams/region.m3u8
+
+#EXTINF:-1,Slovakia-Sloveina:TA3
+
+http://88.212.10.27:81/streams/ta3.m3u8
+
+#EXTINF:-1,Slovakia-Sloveina:WAU
+
+http://88.212.10.27:81/streams/wau.m3u8
+
+#EXTINF:-1,Slovakia-Sloveina:STV 1
+
+http://88.212.10.27:81/streams/stv1.m3u8
+
+#EXTINF:-1,Slovakia-Sloveina:STV 2
+
+http://88.212.10.27:81/streams/stv2.m3u8
+
+#EXTINF:-1,SKANDINAV:Air
+http://stream.air-tv.tv/live/_definst_/web2.stream/hasbahca.m3u8?wowzasessionid=1856325861
+
+#EXTINF:-1,USA:Animal Planet HD USA
+
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/hasbahca.m3u8
+
+#EXTINF:-1,USA:CBC +2
+
+http://iphone-streaming.ustream.tv/ustreamVideo/12794820/streams/live/hasbahca.m3u8
+
+#EXTINF:-1,USA:CBC
+
+http://iphone-streaming.ustream.tv/ustreamVideo/8707800/streams/live/hasbahca.m3u8
+
+#EXTINF:-1,USA:NBA HD
+
+http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
+
+#EXTINF:-1,USA:NHL HD
+
+http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8
+
+#EXTINF:-1,Switzerland:Tele Basel
+
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
+
+#EXTINF:-1,Switzerland:ROUGE TV
+
+http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+
+#EXTINF:-1,Switzerland:TELE X
+
+http://rtmp.infomaniak.ch/livecast/latele/hasbahca.m3u8
+
+#EXTINF:-1,Switzerland:Leman Bleu – Suisse
+
+http://rtmp.infomaniak.ch/livecast/naxoo/hasbahca.m3u8
+
+#EXTINF:-1,Switzerland:BTV Suisse
+
+http://rtmp.infomaniak.ch/livecast/t.../hasbahca.m3u8
+
+#EXTINF:-1,Switzerland:TVM3 Suisse
+
+http://rtmp.infomaniak.ch/livecast/tvm3/hasbahca.m3u8
+
+#EXTINF:-1,Switzerland:TELEZURI Suisse
+
+http://rtmp.infomaniak.ch/livecast/telebielinguech/hasbahca.m3u8
+
+#EXTINF:-1,Switzerland:LA TELE
+
+http://rtmp.infomaniak.ch/livecast/latele/hasbahca.m3u8
+
+#EXTINF:-1,PAKISTANEKHO TV
+
+http://rtmp.infomaniak.ch/livecast/telezuri/hasbahca.m3u8
+
+#EXTINF:-1,PAKISTAN:Madani Channel
+
+http://108.168.128.203/live/myStream/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Batman
+
+http://204.45.108.26:1935/ctv/_definst_/batman/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Ben10
+
+http://204.45.108.26:1935/ctv/_definst_/ben10/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Big Bang Theory (2)
+
+http://204.45.108.26:1935/ctv/_definst_/big/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Bob Esponja
+
+http://204.45.108.26:1935/ctv/_definst_/bob/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Caverna do Dragão (2)
+
+http://204.45.108.26:1935/ctv/_definst_/caverna/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Cavaleiros do Zodiaco
+
+http://204.45.108.26:1935/ctv/_definst_/cdz/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Chaves (2)
+
+http://204.45.108.26:1935/ctv/_definst_/chaves/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Criminal Minds
+
+http://204.45.108.26:1935/ctv/_definst_/criminal/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Todo mundo odeia o cris (2)
+
+http://204.45.108.26:1935/ctv/_definst_/cris/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:CSI (2)
+http://204.45.108.26:1935/ctv/_definst_/csi/hasbahca.m3u8
+
+#EXTINF:-1,BRASILragon Ball Z
+
+http://204.45.108.26:1935/ctv/_definst_/dbz/hasbahca.m3u8
+
+#EXTINF:-1,BRASILoug
+
+http://204.45.108.26:1935/ctv/_definst_/doug/hasbahca.m3u8
+
+#EXTINF:-1,BRASILrake e Josh
+
+http://204.45.108.26:1935/ctv/_definst_/drake/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Friends
+
+http://204.45.108.26:1935/ctv/_definst_/friends/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Galinha Pintadinha
+
+http://204.45.108.26:1935/ctv/_definst_/galinha/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Glee (2)
+http://204.45.108.26:1935/ctv/_definst_/glee/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:GOSSIP GIRLS (2)
+
+http://204.45.108.26:1935/ctv/_definst_/gossip/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Heroes
+
+http://204.45.108.26:1935/ctv/_definst_/heroes/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Icarly (2)
+
+http://204.45.108.26:1935/ctv/_definst_/icarly/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Lost (2)
+
+http://204.45.108.26:1935/ctv/_definst_/lost/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Um maluco no Pedaço (2)
+
+http://204.45.108.26:1935/ctv/_definst_/maluconopedaco/hasbahca.m3u8
+#EXTINF:-1,BRASIL:Naruto
+
+http://204.45.108.26:1935/ctv/_definst_/naruto/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Eu a Patroa e as Criancas (2)
+
+http://204.45.108.26:1935/ctv/_definst_/patroa/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Pica Pau (2)
+
+http://204.45.108.26:1935/ctv/_definst_/picapau/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Prison Break (2)
+
+http://204.45.108.26:1935/ctv/_definst_/prison/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:SIMPSONS (2)
+
+http://204.45.108.26:1935/ctv/_definst_/simpsons/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Smallville (2)
+
+http://204.45.108.26:1935/ctv/_definst_/small/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Supernatural (2)
+
+http://204.45.108.26:1935/ctv/_definst_/supernatural/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Tom e Jerry
+
+http://204.45.108.26:1935/ctv/_definst_/tom/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Familia da Pesada
+
+http://204.45.108.74:1935/ctv/_definst_/family/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:CINE 24 HS
+
+http://204.45.108.74:1935/ctv/_definst_/filmes/sat_total.m3u8
+
+#EXTINF:-1,BRASIL:Futurama
+
+http://204.45.108.74:1935/ctv/_definst_/futurama/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:CANAL 9 MARÍLIA – SP
+
+http://206.217.207.164/sunline/sunline.sdp/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TCV – Televisão de Cabo Verde
+
+http://213.13.26.12:1935/live/_definst_/rtc_teste/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV Diario (GLOBO Fortaleza-CE)
+
+http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+
+#EXTINF:-1,BRASIL:SBT Interior
+
+http://srv3.zoeweb.tv:1935/z133-live/stream/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Extremadura TV
+
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
+#EXTINF:-1,BRASIL:CHEF TV
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:Nickelodeon (Gravado)
+http://iptv.ascend-solutions.com/hls/nick/mob/nick_mob.m3u8
+
+#EXTINF:-1,BRASIL:BASTA CRER
+
+http://streamspub.manasat.com:1935/live/bastacrer/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV MANÁ PORTUGAL
+
+http://195.22.19.179:1935/manasat/manasat2/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV MANÁ SAT BRASIL
+
+http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:KURIOS 3 – ÁFRICA
+
+http://195.22.19.183:1935/kurios/kurios3/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV MANÁ ENG
+
+http://195.22.19.183:1935/tven/tven3/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV MANÁ SPAIN
+
+http://195.22.19.183:1935/tvesp/tvesp3/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV MANÁ FRANCE
+
+http://195.22.19.183:1935/tvfr/tvfr3/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:BASTA CRER
+
+http://195.22.19.189:1935/live/bastacrer/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV MANÁ Cordoba
+
+http://195.22.19.189:1935/tvar/tvmanaar2/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV MANÁ BuenosAires
+
+http://195.22.19.189:1935/tvarba/tvarba3/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV MANÁ BRASIL
+
+http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV Maná-Maputo
+
+http://195.22.19.189:1935/tvmz/tvmz3/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV Maná-Nampula
+
+http://195.22.19.189:1935/tvnmp/tvnmp2/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:CWB tv
+
+http://67.213.216.200/8066/8066/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:JUST TV
+
+http://67.228.177.151:1935/live/myStream.sdp/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:SBT Araçatuba
+
+http://srv3.zoeweb.tv:1935/z133-live/stream/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV DIARIO
+
+http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+
+#EXTINF:-1,BRASIL:VEVO HD
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+
+#EXTINF:-1,BRASIL:Tve 24h:
+
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,BRASIL:FILMES
+
+http://204.45.108.74:1935/ctv/_definst_/filmes/sat_total.m3u8
+
+#EXTINF:-1,BRASIL:SBT – Brasil
+
+http://miami.tvonlinevto.org:1935/live/sbt2/hasbahca.m3u8
+
+#EXTINF:-1,BRASIL:TV COM RS
+
+http://cdn-fms.rbs.com.br/hls-live/tvcomrs-live/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1,BRASIL:TV COM SC
+
+http://cdn-fms.rbs.com.br/hls-live/tvcomsc-live/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1,VIETNAMongNai1
+
+http://112.197.2.16:1935/live/dn1.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:HaNoi1
+
+http://112.197.2.16:1935/live/hn1.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:LongAn
+
+http://112.197.2.16:1935/live/la34.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV01
+
+http://112.197.2.16:1935/live/sctv1.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV02
+
+http://112.197.2.16:1935/live/sctv2.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV03
+
+http://112.197.2.16:1935/live/sctv3.stream/hasbahca.m3u8
+#EXTINF:-1,VIETNAM:SCTV04
+
+http://112.197.2.16:1935/live/sctv4.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV05
+
+http://112.197.2.16:1935/live/sctv5.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV06
+
+http://112.197.2.16:1935/live/sctv6.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV07
+
+http://112.197.2.16:1935/live/sctv7.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV08
+
+http://112.197.2.16:1935/live/sctv8.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV09
+
+http://112.197.2.16:1935/live/sctv9.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV10
+
+http://112.197.2.16:1935/live/sctv10.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV11
+
+http://112.197.2.16:1935/live/sctv11.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV12
+
+http://112.197.2.16:1935/live/sctv12.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV13
+
+http://112.197.2.16:1935/live/sctv13.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV14
+
+http://112.197.2.16:1935/live/sctv14.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:SCTV16
+http://112.197.2.16:1935/live/sctv16.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:VinhLong1
+
+http://112.197.2.11:1935/live/thvl1.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:VTV01
+
+http://112.197.2.16:1935/live/vtv1.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:VTV02
+
+http://112.197.2.16:1935/live/vtv2.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:VTV03
+
+http://112.197.2.16:1935/live/vtv3.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:VTV04
+
+http://112.197.2.16:1935/live/vtv4.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:VTV06
+
+http://112.197.2.16:1935/live/vtv6.stream/hasbahca.m3u8
+
+#EXTINF:-1,VIETNAM:VTV09
+
+http://112.197.2.16:1935/live/vtv9.stream/hasbahca.m3u8
+
+#EXTINF:-1,FRANSA:Mirabelle TV
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist-b464000.m3u8?wowzasessionid=2125720777
+
+#EXTINF:-1,FRANSA 17
+
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1710/02.m3u8
+
+#EXTINF:-1,FRANSA:Equidia Live
+
+http://948.livecast.kewego.com/hls/948/1328/948_1328.m3u8
+
+#EXTINF:-1,FRANSA:France 24
+
+http://tv.flux.france24.com/4684/02.m3u8
+
+#EXTINF:-1,FRANSA:GULLI
+
+http://vipwowza.yacast.net/gulli_live/_definst_/gulli_850.stream/hasbahca.m3u8
+
+#EXTINF:-1,FRANSA:KTO
+
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8
+
+#EXTINF:-1,FRANSA:PTC
+
+http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
+
+#EXTINF:-1,FRANSA:Yvelines Premiere
+
+http://rtmp.infomaniak.ch/livecast/yveline1/hasbahca.m3u8
+
+#EXTINF:-1,FRANSA:İTELE
+
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
+
+#EXTINF:-1,FRANSA:PUBLIC SÈNATE (2)
+
+http://http5.senat.yacast.net/http/livehemiphone/file.m3u8
+
+#EXTINF:-1,FRANSA:Menup TV
+
+http://videos.mensup.fr/mensuptv/live/01.m3u8
+
+#EXTINF:-1,FRANSA:EURONEWS FR
+
+http://hd1.lsops.net/live/euronews_fr_340/.m3u8
+
+#EXTINF:-1,FRANSA8 – DiRECT8 (2)
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/02.m3u8
+
+#EXTINF:-1,FRANSA8 – DiRECT8
+
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/01.m3u8
+
+#EXTINF:-1,FRANSA8
+
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/02.m3u8
+
+#EXTINF:-1,FRANSA17 – DIRECT STAR (2)
+
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1710/02.m3u8
+
+#EXTINF:-1,FRANSA:Canal+ 8
+
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/02.m3u8
+
+#EXTINF:-1,FRANSA:Canal+ 17
+
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1710/02.m3u8
+
+#EXTINF:-1,FRANSA:ALSACE
+
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/chunklist-b763904.m3u8?wowzasessionid=584306809
+
+#EXTINF:-1,FRANSA:Senat
+
+http://rtmp.infomaniak.ch/livecast/rougetv/SAT_TOTAL.m3u8
+
+#EXTINF:-1,FRANSA:ROUGE TV
+
+http://rtmp.infomaniak.ch/livecast/rougetv/SAT_TOTAL.m3u8
+
+#EXTINF:-1,FRANSA:PTC
+
+http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
+
+#EXTINF:-1,FRANSA:Mirabelle TV
+
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist-b464000.m3u8?wowzasessionid=2125720777
+
+#EXTINF:-1,FRANSA:LA TELE
+
+http://rtmp.infomaniak.ch/livecast/latele/SAT_TOTAL.m3u8
+
+#EXTINF:-1,FRANSA 8
+
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/01.m3u8
+
+#EXTINF:-1,FRANSA:CCTV F
+
+http://88.212.11.206:5000/live/20/20.m3u8
+
+#EXTINF:-1,AFRIKA:KURIOS 1 – ÁFRICA
+
+http://195.22.19.183:1935/kurios/kurios1/hasbahca.m3u8
+
+#EXTINF:-1,AFRIKA:KURIOS 2 – ÁFRICA
+
+http://195.22.19.183:1935/kurios/kurios2/hasbahca.m3u8
+
+#EXTINF:-1,AFRIKA:KURIOS 3 – ÁFRICA
+
+http://195.22.19.183:1935/kurios/kurios3/hasbahca.m3u8
+
+#EXTINF:-1,INT_OTHERS:EBRU TV AFRİKA
+
+http://stream2.ebru.tv:1935/live/smil:ebru_africa.smil/hasbahca.m3u8
+
+#EXTINF:-1,INT_OTHERS:ALFA TV
+
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8?dw=60
+
+#EXTINF:-1,INT_OTHERS:CCTV 4
+
+http://88.212.11.206:5000/live/16/16.m3u8
+
+#EXTINF:-1,INT_OTHERS:CCTV ARABIC
+
+http://88.212.11.206:5000/live/18/18.m3u8
+
+#EXTINF:-1,INT_OTHERS:CCTV Espanol
+
+http://88.212.11.206:5000/live/21/21.m3u8
+
+#EXTINF:-1,INT_OTHERS:CCTV Francais
+
+http://88.212.11.206:5000/live/20/20.m3u8
+
+#EXTINF:-1,INT_OTHERS:CCTV NEWS
+
+http://88.212.11.206:5000/live/22/22.m3u8
+
+#EXTINF:-1,INT_OTHERS:CCTV UKRAINA
+
+http://88.212.11.206:5000/live/19/19.m3u8
+
+#EXTINF:-1,INT_OTHERSİGİ 24 CRAİOVA
+
+http://82.76.249.77/digi24edge/digi24craiovalive/index.m3u8
+
+#EXTINF:-1,INT_OTHERSİGİ 24 HD
+
+http://82.76.249.77/digi24edge/digi24hdhqhls/index.m3u8

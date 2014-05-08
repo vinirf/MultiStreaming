@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F4FD0DEC-3154-4E86-9B50-05534DF2D04D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MultiStreaming</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5CA6E443-E98C-4455-807E-36EEBB367931</key>
+		<string>https://github.com/vinirf/MultiStreaming.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MultiStreaming.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5CA6E443-E98C-4455-807E-36EEBB367931</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vinirf/MultiStreaming.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5CA6E443-E98C-4455-807E-36EEBB367931</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5CA6E443-E98C-4455-807E-36EEBB367931</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MultiStreaming</string>
+		</dict>
+	</array>
+</dict>
+</plist>

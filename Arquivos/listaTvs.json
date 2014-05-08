@@ -1,0 +1,372 @@
+{
+    "item": [
+      {
+        "title": "Via Morena",
+        "url": "http://nsp0813vimna35.nethorizontes.com.br:1935/nsp0813vimna35/viamorena/waldo_paes.m3u8"
+      },
+      {
+        "title": "Vevo TV Off",
+        "url": "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/waldo_paes.m3u8"
+      },
+      {
+        "title": "Tv Pampa (RedeTv)",
+        "url": "http://67.228.212.5:1935/ponto4/tvpampa/waldo_paes.m3u8"
+      },
+      {
+        "title": "TV Novo Tempo",
+        "url": "http://play2go.tv:8074/live/TVnovotempo/waldo_paes.m3u8"
+      },
+      {
+        "title": "Tv Meio Norte-PI",
+        "url": "http://flash.asaweb.com.br:1935/meionorte/meionorte.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Tv Gideões",
+        "url": "http://tv3.zasmediastreaming.com.br:1935/gmuh/gmuh.sdp/playlist.m3u"
+      },
+      {
+        "title": "Tv Gazeta",
+        "url": "http://livestream-f.akamaihd.net/5381476_2395418_5d2757e2_1_198@141252?v=3.0.3&fp=WIN 11,9,900,170&r=LRMMC&g=MVIYQRSEIWSM"
+      },
+      {
+        "title": "Tv Escola",
+        "url": "http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8"
+      },
+      {
+        "title": "Tv Diario",
+        "url": "http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8"
+      },
+      {
+        "title": "Tv Cristo Vive",
+        "url": "http://75.126.54.164:1935/live_apostolo_476/tvcristovive3/waldo_paes.m3u8"
+      },
+      {
+        "title": "Tv Cidade Aberta-SP",
+        "url": "http://inaclive.tv.br:1935/tvabertalive/aovivo.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Tv Brasil Central",
+        "url": "http://72.55.165.5:1935/rsync00026/rsync.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Tv Boas Novas",
+        "url": "http://livestream-f.akamaihd.net/722680_2457479_78489e59_1_414@144248?v=3.0.3&fp=WIN 11,9,900,170&r=SBOGF&g=WJHUQJTLCTBG"
+      },
+      {
+        "title": "Tv Aparecida",
+        "url": "http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/waldo_paes.m3u8"
+      },
+      {
+        "title": "Tru Tv",
+        "url": "http://166.78.230.143:1935/liveorigin/112/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Um Maluco no Pedaço",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/maluconopedaco/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Tom e Jerry",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/tom/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Todo Munda odeia o Chris",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/cris/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: The Big Bang Theory",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/big/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Supernatural",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/supernatural/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: SmallVille",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/small/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Simpsons",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/simpsons/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Prison Break",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/prison/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Pica Pau",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/picapau/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Naruto",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/naruto/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Lost",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/lost/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Kenan & Kell",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/kenan/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Icarly",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/icarly/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Heroes",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/heroes/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Gossip Girl",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/gossip/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Glee",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/glee/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Galinha Pintadinha",
+        "url": "http://204.45.108.26:1935/ctv/galinha/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Futurama",
+        "url": "http://204.45.108.74:1935/ctv/_definst_/futurama/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Friends",
+        "url": "http://204.45.108.26:1935/ctv/friends/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Familia da Pesada",
+        "url": "http://204.45.108.74:1935/ctv/_definst_/family/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Eu, A patroa e as crianças",
+        "url": "http://204.45.108.26:1935/ctv/patroa/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Drake e Josh",
+        "url": "http://204.45.108.26:1935/ctv/drake/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Doug",
+        "url": "http://204.45.108.26:1935/ctv/doug/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: DBZ - Dragon Ball Z",
+        "url": "http://204.45.108.26:1935/ctv/dbz/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: CSI",
+        "url": "http://204.45.108.26:1935/ctv/csi/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Criminal Minds",
+        "url": "http://204.45.108.26:1935/ctv/criminal/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Chuck",
+        "url": "http://204.45.108.26:1935/ctv/chuck/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Chaves",
+        "url": "http://204.45.108.26:1935/ctv/chaves/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: CDZ -  Cavaleiros do Zodiaco",
+        "url": "http://204.45.108.26:1935/cdz/caverna/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Caverna do Dragão",
+        "url": "http://204.45.108.26:1935/ctv/caverna/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Bob Esponja",
+        "url": "http://204.45.108.26:1935/ctv/bob/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Ben10",
+        "url": "http://204.45.108.26:1935/ctv/ben10/waldo_paes.m3u8"
+      },
+      {
+        "title": "Série: Batman",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/batman/waldo_paes.m3u8"
+      },
+      {
+        "title": "Sbt BA Tv Aratu",
+        "url": "http://lbalance174.navegarteidc.net:1935/tvaratu/tvaratu.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Sbt Araçatuba",
+        "url": "http://srv3.zoeweb.tv:1935/z133-live/stream/waldo_paes.m3u8"
+      },
+      {
+        "title": "Sbt (2)",
+        "url": "http://94.242.228.41:1935/live/sbt2/waldo_paes.m3u"
+      },
+      {
+        "title": "Sbt",
+        "url": "http://live.abcast.biz:1935/liverepeat/sbtt/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rede União",
+        "url": "http://66.90.103.51:1935/tv/aovivo.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rede TV (2)",
+        "url": "http://mediacp.ciclanohost.com.br:1935/8064/8064/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rede Super",
+        "url": "http://207.210.103.130:1935/redesuper3/redesuper3/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rede Minas",
+        "url": "http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rede Gospel",
+        "url": "http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rede Brasil",
+        "url": "http://50.97.184.147:1935/live-137690976/_definst_/rbtv.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Record RO",
+        "url": "http://cast2.player.tv.br:1935/8126/8126/waldo_paes.m3u8"
+      },
+      {
+        "title": "Record RJ (2)",
+        "url": "http://miami.tvonlinevto.org:1935/live/ch18/waldo_paes.m3u8"
+      },
+      {
+        "title": "Record RJ",
+        "url": "http://94.242.228.41:1935/live/ch18/waldo_paes.m3u8"
+      },
+      {
+        "title": "Record PR",
+        "url": "http://64.150.176.235:1935/ricpr/ric.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Record PE",
+        "url": "http://srv3.zoeweb.tv:1935/z16-live/stream/waldo_paes.m3u8"
+      },
+      {
+        "title": "Record (3)",
+        "url": "http://live.abcast.biz:1935/liverepeat/recod/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rádio TecnoMelody",
+        "url": "http://173.208.235.228:8492"
+      },
+      {
+        "title": "Rádio Skol Sertanejo",
+        "url": "http://st2.aorta.com.br:13028/stream/1/?id=%2Fel%3F1352911263915=.m3u8"
+      },
+      {
+        "title": "Rádio Skol Praia",
+        "url": "http://173.236.58.98:8000/;stream.m3u8"
+      },
+      {
+        "title": "Rádio Skol Facul",
+        "url": "http://st2.aorta.com.br:13004/;stream.m3u8"
+      },
+      {
+        "title": "Rádio Skol Black",
+        "url": "http://173.236.58.98:9060/;stream.m3u8"
+      },
+      {
+        "title": "Rádio Skol Beats",
+        "url": "http://173.236.58.98:9040/;stream.m3u8"
+      },
+      {
+        "title": "Rádio Jovem Pan News",
+        "url": "http://evp.mm.uol.com.br:1935/jovempan/_definst_/jpnews.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rádio Globo AM-SP",
+        "url": "http://media.sgr.globo.com:1935/RadioGloboRD/gamsp.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rádio Band News-SP",
+        "url": "http://evp.mm.uol.com.br:1935/bnewsfm_sp/_definst_/bnewsfm_sp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rádio Band News-RJ",
+        "url": "http://evp.mm.uol.com.br:1935/bnewsfm_rj/_definst_/bnewsfm_rj.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Rádio Band AM-SP",
+        "url": "http://evp.mm.uol.com.br:1935/radioam_sp/_definst_ /radioam_sp/waldo_paes.m3u8"
+      },
+      {
+        "title": "NBR",
+        "url": "http://livela.sambatech.com.br/hls-live/livepkgr/acerp4_0f3ea6c4706e9744efa63da6b7f8d7d8/liveevent/livestream.m3u8"
+      },
+      {
+        "title": "Mix Tv",
+        "url": "http://rtmp.cdn.upx.net.br:1935/11ac/myStream.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Just tv",
+        "url": "http://67.228.177.151:1935/live/myStream.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "I-SAT",
+        "url": "http://166.78.230.143:1935/liveorigin/isat/waldo_paes.m3u8"
+      },
+      {
+        "title": "GLOBO RJ (2)",
+        "url": "http://live.abcast.biz:1935/liverepeat/burj/waldo_paes.m3u8"
+      },
+      {
+        "title": "Futura",
+        "url": "http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/waldo_paes.m3u8"
+      },
+      {
+        "title": "Fox Sports",
+        "url": "http://live.abcast.biz:1935/liverepeat/foxsportsh/waldo_paes.m3u8"
+      },
+      {
+        "title": "E! OFF",
+        "url": "http://miami.tvonlinevto.org:1935/live/ei/waldo_paes.m3u8"
+      },
+      {
+        "title": "Cultura-SP",
+        "url": "http://ev.mm.uol.com.br:1935/liverepeater/eventos3_flash.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Cine SkY",
+        "url": "http://miami.tvonlinevto.org:1935/live/cinesky/waldo_paes.m3u8"
+      },
+      {
+        "title": "Cine HD",
+        "url": "http://204.45.108.26:1935/ctv/_definst_/filmes/waldo_paes.m3u8"
+      },
+      {
+        "title": "Cidade Alerta Record",
+        "url": "http://166.78.230.143:1935/liveorigin/r7-cidadealerta/waldo_paes.m3u8"
+      },
+      {
+        "title": "Chef TV",
+        "url": "http://flashd.localmidia.com.br:1935/cheftv/aovivo/waldo_paes.m3u8"
+      },
+      {
+        "title": "Cartoon Network (2)",
+        "url": "http://miami.tvonlinevto.org:1935/live/cartoon/waldo_paes.m3u8"
+      },
+      {
+        "title": "Canção Nova",
+        "url": "http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8"
+      },
+      {
+        "title": "BH News",
+        "url": "http://204.236.247.179:1935/3125/3125-hotmedia.sdp/waldo_paes.m3u8"
+      },
+      {
+        "title": "Band-PA - RBA",
+        "url": "http://strrba.net2.com.br:1935/live/rba_1/waldo_paes.m3u8"
+      }
+    ]
+}
